@@ -1,2 +1,2 @@
 # Object Oriented Programming
-Labs and Tests for EOOP subject at WUT
+C++ code for labs and tests of EOOP subject at WUT
